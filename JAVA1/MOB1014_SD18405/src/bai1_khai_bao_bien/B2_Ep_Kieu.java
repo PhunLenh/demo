@@ -35,7 +35,8 @@ public class B2_Ep_Kieu {
        double so2= Double.parseDouble(num2);
        double result= so1+so2;
         System.out.println("result "+ result);
-               
+
+        System.out.println("222");
        
        /* lơp bao- wrapper
        đối với mỗi kiểu dữ liệu nguyên thuỷ,
